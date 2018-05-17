@@ -1,0 +1,32 @@
+{
+  "name": "landing_1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melnychuk1/landining_1.0.git"
+  },
+  "author": "Melnychuk Anatolii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melnychuk1/landining_1.0/issues"
+  },
+  "homepage": "https://github.com/melnychuk1/landining_1.0#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemap": "^1.0.1",
+    "gulp.spritesmith": "^6.9.0",
+    "rimraf": "^2.6.2"
+  },
+  "dependencies": {}
+}
